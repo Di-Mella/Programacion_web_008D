@@ -1,0 +1,16 @@
+.contenedor {
+
+    background-color: blueviolet;
+}
+h3{
+    color: navy;
+    margin-left: 20px;
+}
+.contenedor2 {
+
+    background-color: white;
+}
+h4, h5{
+    text-align: center;
+    color: royalblue;
+}
