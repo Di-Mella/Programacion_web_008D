@@ -1,0 +1,42 @@
+
+body {
+    background-color: aqua;
+    background-image: url("foto2.jpg");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+h1{
+    color: #c51717;
+        text-align: center;
+        text-decoration: underline;
+        text-transform: lowercase;
+
+}
+table{
+    border: 1px solid black;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+img{
+    float: right;
+}
+#mimi{
+    float: left;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+#mimi2{
+    float: left;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    
+}
